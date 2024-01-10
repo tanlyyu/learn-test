@@ -3,6 +3,10 @@ Git is free distrubuted under the GPL.
 Git has a mutable index called stage.
 Git tracks changes   of files.
 
-creat a new branch is quick.
+creat a new branch is quic
 
-& simple.
+
+test a new branch.
+
+quick and simple.
+
